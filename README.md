@@ -1,4 +1,3 @@
-AI Resume Analyzer using NLP and Deep Learning
 #  AI Resume Analyzer
 
 ### Intelligent Resume Classification, Skill Analysis, Resume Scoring and Missing Skill Recommendation using NLP and Deep Learning
@@ -65,7 +64,7 @@ The dataset is used to train a Deep Learning model for resume classification.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas
@@ -256,11 +255,3 @@ The AI Resume Analyzer demonstrates a complete NLP and Deep Learning pipeline fo
 This project showcases the practical application of **Natural Language Processing**, **Deep Learning**, and **Artificial Intelligence** in solving real-world hiring challenges while helping candidates improve their resumes effectively.
 
 ---
-
-## Author
-
-**Tanisha Kumari**
-
-Machine Learning | Data Science | NLP | Deep Learning
-
- If you found this project useful, consider giving it a star on GitHub!
